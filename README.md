@@ -2,10 +2,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=parthita&theme=dracula&count_private=true&show_icons=true)](https://github.com/parthita?tab=repositories)
 
-<a href="https://github.com/parthita">
 
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=parthita&layout=compact&theme=dracula" />
-</a>
 
 <br />
 <br />
