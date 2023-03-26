@@ -6,10 +6,10 @@
 
 <br />
 <br />
-<a href="https://twitter.com/itz_blzk">
+<a href="https://twitter.com/parthita_">
   <img align="left" alt="Parthita | Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://t.me/parthita">
+<a href="https://t.me/parthita24">
   <img align="left" alt="Parthita's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
