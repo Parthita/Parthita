@@ -43,8 +43,8 @@ I have received **26** stars across all my repositories! ⭐
 
 ## 🔗 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/parthita-chattopadhyay-7bb3072b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](https://x.com/parthita_?t=jc3u-a9ZcHEdCl-43ugApA&s=09)
 
 ---
 
