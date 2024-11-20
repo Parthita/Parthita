@@ -1,6 +1,6 @@
 <h2>Hello guys<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Parthita!</h2>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=parthita&theme=dracula&count_private=true&show_icons=true)](https://github.com/parthita?tab=repositories)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=parthita&theme=dracula&count_private=true&show_icons=true)](https://github.com/Parthita?tab=repositories)
 
 
 
