@@ -9,8 +9,6 @@ Welcome to my GitHub profile. Here, you can explore my repositories, projects, a
 
 - **Python**
 - **SQL**
-  
-  
 
 ---
 
@@ -33,14 +31,7 @@ I currently have **14** repositories, where I build, learn, and contribute to va
 ## 🌟 My GitHub Stars:
 
 I have received **26** stars across all my repositories! ⭐
-
 ---
-
-
-
-
----
-
 ## 🔗 Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/parthita-chattopadhyay-7bb3072b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
