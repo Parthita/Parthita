@@ -22,31 +22,22 @@ Welcome to my GitHub profile. Here, you can explore my repositories, projects, a
 
 ## 📦 Repositories:
 
-I currently have **`X`** repositories, where I build, learn, and contribute to various projects.
+I currently have **14** repositories, where I build, learn, and contribute to various projects.
 
-- Total repositories: `X`
-- Forked repositories: `X`
-- Private repositories: `X`
+- Total repositories: `14`
+- Forked repositories: `3`
+- Private repositories: `0`
 
 ---
 
 ## 🌟 My GitHub Stars:
 
-I have received **`X`** stars across all my repositories! ⭐
+I have received **26** stars across all my repositories! ⭐
 
 ---
 
-## 🏆 Contributions:
 
-Here is a snapshot of my contribution activity:
 
-![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Parthita&theme=radical)
-
----
-
-## 📈 GitHub Graph:
-
-![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Parthita&theme=github)
 
 ---
 
@@ -54,10 +45,9 @@ Here is a snapshot of my contribution activity:
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
-- [Portfolio/Personal Website](https://your-website.com)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "Code is like humor. When you have to explain it, it’s bad." 
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and reach out if you'd like to collaborate. 😊
