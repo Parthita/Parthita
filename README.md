@@ -1,18 +1,66 @@
-<h2>Hello guys<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Parthita!</h2>
+# Welcome to My GitHub Profile!
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=parthita&theme=dracula&count_private=true&show_icons=true)](https://github.com/Parthita?tab=repositories)
+Hi there! 👋  
+Welcome to my GitHub profile. Here, you can explore my repositories, projects, and contributions.
 
+---
 
+## 🛠️ Languages and Technologies I Use:
 
-<br />
-<br />
-<a href="https://twitter.com/parthita_">
-  <img align="left" alt="Parthita | Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/parthita24">
-  <img align="left" alt="Parthita's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+- **Python**
+- **JavaScript**
+- **C++**
+- **HTML/CSS**
+- **SQL**
+- **Node.js**
+- **Java**
 
-<br />
-<br />
+---
 
+## 📊 GitHub Stats:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+---
+
+## 📦 Repositories:
+
+I currently have **`X`** repositories, where I build, learn, and contribute to various projects.
+
+- Total repositories: `X`
+- Forked repositories: `X`
+- Private repositories: `X`
+
+---
+
+## 🌟 My GitHub Stars:
+
+I have received **`X`** stars across all my repositories! ⭐
+
+---
+
+## 🏆 Contributions:
+
+Here is a snapshot of my contribution activity:
+
+![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
+---
+
+## 📈 GitHub Graph:
+
+![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)
+
+---
+
+## 🔗 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Portfolio/Personal Website](https://your-website.com)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+Thanks for visiting my GitHub profile! Feel free to explore my work and reach out if you'd like to collaborate. 😊
