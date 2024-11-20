@@ -8,18 +8,15 @@ Welcome to my GitHub profile. Here, you can explore my repositories, projects, a
 ## 🛠️ Languages and Technologies I Use:
 
 - **Python**
-- **JavaScript**
-- **C++**
-- **HTML/CSS**
 - **SQL**
-- **Node.js**
-- **Java**
+  
+  
 
 ---
 
 ## 📊 GitHub Stats:
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthita&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
@@ -43,13 +40,13 @@ I have received **`X`** stars across all my repositories! ⭐
 
 Here is a snapshot of my contribution activity:
 
-![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Parthita&theme=radical)
 
 ---
 
 ## 📈 GitHub Graph:
 
-![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)
+![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Parthita&theme=github)
 
 ---
 
