@@ -96,11 +96,21 @@ ML-powered Flask API predicting Indian railway delays using scraped data and reg
 - 👥 **Core Team Member** - Google Developer Groups (GDG) on Campus
 - 🚀 **Active Hackathon Participant** - Aignite, Hexafalls, Hacktopus
 
+## ⭐ GitHub Stars
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/Parthita?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&color=6366F1)
+![GitHub followers](https://img.shields.io/github/followers/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?color=6366F1&style=for-the-badge&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthita&logo=github&logoColor=white)
+
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Parthita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parthita&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parthita&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)
 
 </div>
 
