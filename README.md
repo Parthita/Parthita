@@ -1,44 +1,108 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Parthita 👋
 
-Hi there! 👋  
-Welcome to my GitHub profile. Here, you can explore my repositories, projects, and contributions.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%26+Backend+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Production+Systems)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 About Me
+
+Third-year B.Tech Computer Science student passionate about building functional AI systems and production-grade backends. Currently focused on Machine Learning and system architecture, with a strong drive to advance into Deep Learning and neural architectures.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Parthita Chattopadhyay"
+        self.role = "B.Tech CSE Student & AI Developer"
+        self.university = "B.P. Poddar Institute of Management & Technology"
+        self.languages = ["Python", "SQL"]
+        self.focus = ["Machine Learning", "Backend Development", "AI Systems"]
+        self.goal = "Deep Learning & Transformer Architectures"
+    
+    def current_projects(self):
+        return ["SIEM Assistant", "Travel Planner API", "ML Prediction Systems"]
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parthita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Parthita&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 Featured Projects
+
+### 🔍 [Conversational SIEM Assistant](https://github.com/Parthita/els_nlp_auto)
+NLP-based interface for ELK/Wazuh SIEM systems with natural language query translation to Elasticsearch DSL/KQL.
+
+### ✈️ [Easy Journey - Smart Travel Planner](https://github.com/Parthita/easy_journey)
+FastAPI backend generating personalized travel itineraries with LLM integration for location validation and cultural awareness.
+
+### 🚂 [Train Delay Prediction API](https://github.com/Parthita/train_delay_backend)
+ML-powered Flask API predicting Indian railway delays using scraped data and regression models.
+
+## 🎯 Current Focus
+
+- 🤖 **AI Systems**: Building production-grade AI applications
+- 🏗️ **Backend Architecture**: Designing scalable REST APIs
+- 🧠 **Deep Learning**: Advancing toward Transformer implementations
+- 📊 **Machine Learning**: Feature engineering and model optimization
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2025 Finalist** (ISRO Problem Statement)
+- 👥 **Core Team Member** - Google Developer Groups (GDG) on Campus
+- 🚀 **Active Hackathon Participant** - Aignite, Hexafalls, Hacktopus
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Parthita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parthita&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthita-chattopadhyay-7bb3072b4)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/parthita_)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthita)
+
+</div>
 
 ---
 
-## 🛠️ Languages and Technologies I Use:
+<div align="center">
 
-- **Python**
-- **SQL**
+![Profile Views](https://komarev.com/ghpvc/?username=Parthita&color=6366F1&style=flat-square&label=Profile+Views)
 
----
+**"Building intelligent systems that bridge the gap between complex AI and practical solutions."**
 
-## 📊 GitHub Stats:
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthita&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
----
-
-## 📦 Repositories:
-
-I currently have **14** repositories, where I build, learn, and contribute to various projects.
-
-- Total repositories: `14`
-- Forked repositories: `3`
-- Private repositories: `0`
-
----
-
-## 🌟 My GitHub Stars:
-
-I have received **26** stars across all my repositories! ⭐
----
-## 🔗 Connect with Me:
-
-- [LinkedIn](https://www.linkedin.com/in/parthita-chattopadhyay-7bb3072b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://x.com/parthita_?t=jc3u-a9ZcHEdCl-43ugApA&s=09)
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." 
-
-Thanks for visiting my GitHub profile! Feel free to explore my work and reach out if you'd like to collaborate. 😊
+</div>
