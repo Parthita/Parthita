@@ -14,9 +14,7 @@ Third-year B.Tech Computer Science student passionate about building functional 
 class Developer:
     def __init__(self):
         self.name = "Parthita Chattopadhyay"
-        self.role = "B.Tech CSE Student & AI Developer"
-        self.university = "B.P. Poddar Institute of Management & Technology"
-        self.languages = ["Python", "SQL"]
+        self.role = " AI Developer "
         self.focus = ["Machine Learning", "Backend Development", "AI Systems"]
         self.goal = "Deep Learning & Transformer Architectures"
     
@@ -40,15 +38,6 @@ class Developer:
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthita&layout=compact&theme=radical"/>
-
-</div>
-
-
 
 ## 🏆 Featured Projects
 
@@ -71,7 +60,6 @@ ML-powered Flask API predicting Indian railway delays using scraped data and reg
 ## 🏆 Achievements
 
 - 🥇 **Smart India Hackathon 2025 Finalist** (ISRO Problem Statement)
-- 👥 **Core Team Member** - Google Developer Groups (GDG) on Campus
 - 🚀 **Active Hackathon Participant** - Aignite, Hexafalls, Hacktopus
 
 ## ⭐ GitHub Stars
