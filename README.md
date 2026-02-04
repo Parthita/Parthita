@@ -48,15 +48,7 @@ class Developer:
 
 </div>
 
-## ⭐ GitHub Stars & Stats
 
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
-![GitHub followers](https://img.shields.io/github/followers/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
-![GitHub repos](https://img.shields.io/github/repos/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
-
-</div>
 
 ## 🏆 Featured Projects
 
