@@ -43,32 +43,18 @@ class Developer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parthita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthita&layout=compact&theme=radical"/>
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parthita&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 GitHub Trophies
+## ⭐ GitHub Stars & Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Parthita&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Parthita's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parthita&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub stars](https://img.shields.io/github/stars/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
+![GitHub followers](https://img.shields.io/github/followers/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
+![GitHub repos](https://img.shields.io/github/repos/Parthita?style=for-the-badge&logo=github&logoColor=white&color=6366F1)
 
 </div>
 
