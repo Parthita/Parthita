@@ -1,4 +1,4 @@
-# Hi, I'm Parthita 👋
+# Hi, I'm Parthita
 
 <div align="center">
   
@@ -6,15 +6,15 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-Third-year B.Tech Computer Science student passionate about building functional AI systems and production-grade backends. Currently focused on Machine Learning and system architecture, with a strong drive to advance into Deep Learning and neural architectures.
+Third-year B.Tech Computer Science student focused on building functional AI systems and production-grade backends. Currently working on Machine Learning and system architecture, aiming to advance into Deep Learning and neural architectures.
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Parthita Chattopadhyay"
-        self.role = " AI Developer "
+        self.role = "AI Developer"
         self.focus = ["Machine Learning", "Backend Development", "AI Systems"]
         self.goal = "Deep Learning & Transformer Architectures"
     
@@ -22,7 +22,7 @@ class Developer:
         return ["SIEM Assistant", "Travel Planner API", "ML Prediction Systems"]
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -38,31 +38,30 @@ class Developer:
 
 </div>
 
+## Featured Projects
 
-## 🏆 Featured Projects
+### [Conversational SIEM Assistant](https://github.com/Parthita/els_nlp_auto)
+NLP-based interface for ELK/Wazuh SIEM systems with natural language query translation to Elasticsearch DSL/KQL and multi-turn context handling.
 
-### 🔍 [Conversational SIEM Assistant](https://github.com/Parthita/els_nlp_auto)
-NLP-based interface for ELK/Wazuh SIEM systems with natural language query translation to Elasticsearch DSL/KQL.
+### [Easy Journey - Smart Travel Planner](https://github.com/Parthita/easy_journey)
+FastAPI backend generating personalized travel itineraries with LLM integration, structured prompts, and deterministic outputs.
 
-### ✈️ [Easy Journey - Smart Travel Planner](https://github.com/Parthita/easy_journey)
-FastAPI backend generating personalized travel itineraries with LLM integration for location validation and cultural awareness.
+### [Train Delay Prediction API](https://github.com/Parthita/train_delay_backend)
+Machine learning-powered Flask API predicting Indian railway delays using scraped data, feature engineering, and regression models.
 
-### 🚂 [Train Delay Prediction API](https://github.com/Parthita/train_delay_backend)
-ML-powered Flask API predicting Indian railway delays using scraped data and regression models.
+## Current Focus
 
-## 🎯 Current Focus
+- AI Systems: Building production-grade AI applications  
+- Backend Architecture: Designing scalable REST APIs  
+- Deep Learning: Advancing toward Transformer implementations  
+- Machine Learning: Feature engineering and model optimization  
 
-- 🤖 **AI Systems**: Building production-grade AI applications
-- 🏗️ **Backend Architecture**: Designing scalable REST APIs
-- 🧠 **Deep Learning**: Advancing toward Transformer implementations
-- 📊 **Machine Learning**: Feature engineering and model optimization
+## Achievements
 
-## 🏆 Achievements
+- Smart India Hackathon 2025 Finalist (ISRO Problem Statement)  
+- Active Hackathon Participant – Aignite, Hexafalls, Hacktopus  
 
-- 🥇 **Smart India Hackathon 2025 Finalist** (ISRO Problem Statement)
-- 🚀 **Active Hackathon Participant** - Aignite, Hexafalls, Hacktopus
-
-## ⭐ GitHub Stars
+## GitHub Stats
 
 <div align="center">
 
@@ -72,7 +71,7 @@ ML-powered Flask API predicting Indian railway delays using scraped data and reg
 
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -80,7 +79,7 @@ ML-powered Flask API predicting Indian railway delays using scraped data and reg
 
 </div>
 
-## 🌐 Connect & Collaborate
+## Connect
 
 <div align="center">
 
@@ -96,6 +95,6 @@ ML-powered Flask API predicting Indian railway delays using scraped data and reg
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Parthita&color=6366F1&style=flat-square&label=Profile+Views)
 
-**"Building intelligent systems that bridge the gap between complex AI and practical solutions."**
+Building intelligent systems that bridge the gap between complex AI and practical solutions.
 
 </div>
